@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://i.ibb.co/3Tt063w/animetaku-logo2.png" width="350"/>
+   <img src="https://i.ibb.co/vk18gkt/losgo.png" width="350"/>
 </p>
 
 <br />
